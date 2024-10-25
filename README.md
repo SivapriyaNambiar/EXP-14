@@ -47,8 +47,8 @@ In this type of inheritance, more than one subclass is inherited from a single b
 ### Code 
 (A) <br> 
 ```
-// NAME - SHLOKA PATEL 
-// PRN - 23070123120 
+// NAME - SIVAPRIYA NAMBIAR
+// PRN - 23070123125 
 // EXPERIMENT - 14(A)  
 
 // Program to show single inheritance.
@@ -82,8 +82,8 @@ int main()
 
 (B) <br> 
 ```
-// NAME - SHLOKA PATEL 
-// PRN - 23070123120 
+// NAME - SIVAPRIYA NAMBIAR
+// PRN - 23070123125 
 // EXPERIMENT - 14(B) 
 
 // Program toshow multiple inheritance.
@@ -126,8 +126,8 @@ int main(){
 
 (C) <br> 
 ```
-// NAME - SHLOKA PATEL 
-// PRN - 23070123120 
+// NAME - SIVAPRIYA NAMBIAR
+// PRN - 23070123125 
 // EXPERIMENT - 14(C) 
 
 // Program to showmultilevel inheritance.
@@ -191,8 +191,8 @@ int main()
 
 (D) <br> 
 ```
-// NMAE - SHLOKA PATEL 
-// PRN - 23070123120 
+// NAME - SIVAPRIYA NAMBIAR
+// PRN - 23070123125 
 // EXPERIMENT - 14(D) 
 
 // Program to show Hiererchical Inheritance.                    
@@ -236,7 +236,8 @@ int main()
 ![](https://github.com/Shloka-Patel/Experiment---14/blob/main/Output_14B.png) 
 
 (C) <br> 
-![](https://github.com/Shloka-Patel/Experiment---14/blob/main/Output_14C.png) 
+![image](https://github.com/user-attachments/assets/29e636ba-a831-489a-a1f3-b9d411069dbf)
+
 
 (D) <br> 
 ![](https://github.com/Shloka-Patel/Experiment---14/blob/main/Output_14D.png) 
